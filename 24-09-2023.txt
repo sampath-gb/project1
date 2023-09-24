@@ -1,2 +1,1 @@
-siva po
-rasad redy
+git config --global credential.username "sivap-reddy"
